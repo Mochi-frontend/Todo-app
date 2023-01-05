@@ -254,9 +254,9 @@ tr {
 
 .button-update {
     text-align: left;
-    border: 2px solid #fa9770;
+    border: 2px solid #5e96ab;
     font-size: 12px;
-    color: #fa9770;
+    color: #5e96ab;
     background-color: #fff;
     font-weight: bold;
     padding: 8px 16px;
@@ -267,8 +267,8 @@ tr {
 }
 
 .button-update:hover {
-    background-color: #fa9770;
-    border-color: #fa9770;
+    background-color: #5e96ab;
+    border-color: #5e96ab;
     color: #fff;
 }
 
